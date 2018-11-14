@@ -1,4 +1,5 @@
 # FenceKiller
+Escape From Tarkov trader bot written in C#.
 
 # How to use?
 Review code in Form1.cs and update where needed, marked with 'FIXME'
